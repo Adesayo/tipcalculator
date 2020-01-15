@@ -1,0 +1,100 @@
+*{
+  outline:none;
+}
+
+  body{
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: rgb(25,25,70);
+}
+#container{
+  box-sizing: border-box;
+  width: 90%;
+  margin: 0 auto;
+  background-color:rgb(25,25,60);
+  border-radius: 1em;
+  height: 100vh;
+  padding:2% 5%;
+}
+
+h1{
+  text-align: center;
+  background-color: #555;
+  border: #edf6ff 1px solid;
+  padding: 2%;
+  font-size:  ;
+  color: #b8860b;
+}
+
+h4{
+color: #daa420;
+font-family: lato;
+
+}
+
+input,select{
+  background-color: rgba(255, 215, 0, 0.6);
+  padding: 3%;
+  height: 7%;
+  width:80%;
+  font-size: 110%;
+  color: #f5f5dc;
+}
+
+select{
+
+}
+button{
+  margin-top: 10%;
+  display: inline-block;
+  width: 50%;
+
+  text-align: center;
+  height: 7%;
+  font-weight: bold;
+  background-image: -webkit-linear-gradient( left,#f8f8ff, #daa520);
+  transition: background 5s;
+}
+
+button:active{
+  background-image: -webkit-linear-gradient( left, #daa520,  #f8f8ff);
+}
+
+#totalTip{
+  margin-top: 10%;
+  background-color: #ffd700;
+  padding: 5%;
+  color: #000;
+  font-size: 250%;
+
+}
+#alert{
+
+  color: #f8f8ff;
+  font-size: 200%;
+  padding: 2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  */
